@@ -10,7 +10,7 @@ The intended application of the project is for use in applying visibility weight
 
 ## Dataset Description
 
-* train.csv: A full training dataset with the following attributes:
+* train.csv (DIDNT UPLOAD DO TO SIZE <25 mb ): A full training dataset with the following attributes:
   * id: unique id for a news article
   * title: the title of a news article
   * author: author of the news article
